@@ -1,5 +1,13 @@
-# Object file
-*.o
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
 
-# Ada Library Information
-*.ali
+pkg/
+src/
